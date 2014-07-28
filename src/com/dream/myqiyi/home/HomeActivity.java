@@ -29,7 +29,7 @@ public class HomeActivity extends Activity {
 	static final int SCROLL_ACTION = 0;
 	ExpandableListView mExpandableListView;
 	int[] tags = new int[] { 0, 0, 0, 0, 0 };
-	String[] groups = new String[] { "同步剧场", "奇艺出品", "热播电影", "3月片花速递", "动漫乐园" };
+	String[] groups = new String[] { "同步剧d场", "奇艺出品", "热播电影", "3月片花速递", "动漫乐园" };
 	String[][] childs = new String[5][10];
 	Gallery mGallery;
 	GalleryAdapter mGalleryAdapter;
